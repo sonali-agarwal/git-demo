@@ -1,2 +1,2 @@
 # git-demo
-demonstration of git
+This is a test project for demonstration of git
